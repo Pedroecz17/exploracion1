@@ -1,4 +1,4 @@
-# exploracion1
+# Anexos de Exploración Matemática
 Videos y código de la máquina lanza-monedas
 
 Está máquina lanza una moneda de un centavo dependiendo de las ordenes del usuario. Escogí la moneda de un centavo debido a que el servomotor no puede trabajar con el peso de una moenda de un dólar. Para realizar un lanzamiento:
